@@ -1,4 +1,8 @@
-```
+#Current Bash Profile
+
+*open ~/.bash_profile
+
+~~~~
 # echo is like puts for bash (bash is the program running in your terminal)
 echo "Loading ~/.bash_profile a shell script that runs in every new terminal you open"
 
@@ -113,5 +117,4 @@ alias dropr="rails db:drop"
 alias spin="db:create db:migrate db:seed"
 alias spinr="rails db:create db:migrate db:seed"
 alias rials='rails'
-
-```
+~~~~
