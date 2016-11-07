@@ -1,6 +1,6 @@
 #Current Bash Profile
 
-*open ~/.bash_profile
+*open ~/.bash_profile*
 
 ~~~~
 # echo is like puts for bash (bash is the program running in your terminal)
